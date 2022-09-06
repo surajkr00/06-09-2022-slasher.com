@@ -1,0 +1,10 @@
+body{
+    font-family: 'Vollkorn', serif;
+    /* font-family: 'Mukta', sans-serif; */
+}
+
+.root{
+    --primary-text-font:  'Vollkorn', serif;
+    --secondary-text-font: 'Mukta', sans-serif;
+}
+
